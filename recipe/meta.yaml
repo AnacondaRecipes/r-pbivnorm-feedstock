@@ -59,6 +59,7 @@ about:
   summary: Provides a vectorized R function for calculating probabilities from a standard bivariate
     normal CDF.
   license_family: GPL3
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
 
 extra:
   recipe-maintainers:
